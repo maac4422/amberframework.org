@@ -36,9 +36,8 @@
 
       a.list-group-item aria-expanded="false" data-parent="#sidebar" data-toggle="collapse" href="#menu1" Routing ↴
         #menu1.collapse
-          a.list-group-item data-parent="#menu1" href="/guides/getting-started/routing/pipelines.md#pipelines" id="pipelines" Pipelines
-          a.list-group-item data-parent="#menu1" href="/guides/getting-started/routing/routes.md#routes" id="routes" Routes
-          a.list-group-item data-parent="#menu1" href="/guides/getting-started/routing/forwarding.md#forwarding" id="forwarding" Forwarding
+          a.list-group-item data-parent="#menu1" href="/getting-started/routing/pipelines.md#pipelines" id="pipelines" Pipelines
+          a.list-group-item data-parent="#menu1" href="/getting-started/routing/routes.md#routes" id="routes" Routes
 
       a.list-group-item.collapsed aria-expanded="false" data-parent="#sidebar" data-toggle="collapse" href="#menu2" Controllers ↴
         #menu2.collapse
